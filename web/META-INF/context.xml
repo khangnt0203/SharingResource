@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/SharingResources">
+    <Resource name="Database" type="javax.sql.DataSource" auth="Container"
+              driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+              url="jdbc:sqlserver://103.125.170.20:10032;databaseName=SharingResources;instanceName=SE140281"
+              username="sa" password="Goboi123"/>
+</Context>
